@@ -1,0 +1,3 @@
+# For optional ToolTalk and personal-action inference via OpenAI Responses API.
+openai>=2.0
+# AutomationBench is installed separately via uv sync in its own cloned repo.

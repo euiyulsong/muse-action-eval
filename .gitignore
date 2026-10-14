@@ -1,0 +1,6 @@
+__pycache__/
+*.py[cod]
+.tooltalk_cache/
+personal_results/
+results/*.jsonl
+tooltalk100.jsonl
